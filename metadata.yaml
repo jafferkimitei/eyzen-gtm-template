@@ -1,0 +1,5 @@
+homepage: "https://eyzen.eycube.com"
+documentation: "https://eyzen.eycube.com/docs/install#gtm"
+versions:
+  - sha: dd3f0c47f04fa37bf421d99053f8e7de43c2fc2f
+    changeNotes: First release.
